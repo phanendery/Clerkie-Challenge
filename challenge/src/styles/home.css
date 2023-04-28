@@ -1,0 +1,37 @@
+.home-header {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 22px;
+  margin-left: 75px;
+}
+
+.home-header-container {
+  height: 80px;
+  /* width: 100vw; */
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(162, 162, 162, 0.1);
+  display: flex;
+  align-items: center;
+}
+
+.home-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 1000px;
+}
+
+.home-content-text {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 22px;
+  margin-top: 300px;
+  margin-bottom: 50px;
+  text-align: center;
+}
